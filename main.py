@@ -7,3 +7,5 @@ elif o=='-':
     print(n1-n2)
 elif o=='*':
     print(n1*n2)
+elif o=='/':
+    print(n1/n2)
